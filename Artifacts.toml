@@ -1,0 +1,143 @@
+[[SZ]]
+arch = "aarch64"
+git-tree-sha1 = "d1966d73221394387e5d74ea562f655b29c6635c"
+os = "macos"
+
+    [[SZ.download]]
+    sha256 = "29eaf9219e7c7e9df2b4cd4065a51fb289b47ab0c5005b0f93c9e8a07e28de9c"
+    url = "https://github.com/JuliaBinaryWrappers/SZ_jll.jl/releases/download/SZ-v2.1.12+0/SZ.v2.1.12.aarch64-apple-darwin.tar.gz"
+[[SZ]]
+arch = "aarch64"
+git-tree-sha1 = "f017165656d8f9192e854d9b2aea14b81d4ae655"
+libc = "glibc"
+os = "linux"
+
+    [[SZ.download]]
+    sha256 = "c529d1cc466bb4000cb202aad6b80508ef881e3f870733b3b1c6b48f01d85b6c"
+    url = "https://github.com/JuliaBinaryWrappers/SZ_jll.jl/releases/download/SZ-v2.1.12+0/SZ.v2.1.12.aarch64-linux-gnu.tar.gz"
+[[SZ]]
+arch = "aarch64"
+git-tree-sha1 = "fce04f89298689b9626d53448c3102658cc14a12"
+libc = "musl"
+os = "linux"
+
+    [[SZ.download]]
+    sha256 = "3499878a56491829d190005695ecc3a67a6aed4df308f9c2318fc50d27e54517"
+    url = "https://github.com/JuliaBinaryWrappers/SZ_jll.jl/releases/download/SZ-v2.1.12+0/SZ.v2.1.12.aarch64-linux-musl.tar.gz"
+[[SZ]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "f54ee2a9bbd024ebad9687b10f9f96f9bd0031ec"
+libc = "glibc"
+os = "linux"
+
+    [[SZ.download]]
+    sha256 = "cca9c1aee57e605a61a8556406850bdae351009e45fd557be852045f24e547e1"
+    url = "https://github.com/JuliaBinaryWrappers/SZ_jll.jl/releases/download/SZ-v2.1.12+0/SZ.v2.1.12.armv6l-linux-gnueabihf.tar.gz"
+[[SZ]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "51212b842fbc92d5bb200b4539617c5b68ef1b4c"
+libc = "musl"
+os = "linux"
+
+    [[SZ.download]]
+    sha256 = "e5f9f97784b927fb3819a5cde38a10e0cca1ade0537f732b66326bb3bdae811c"
+    url = "https://github.com/JuliaBinaryWrappers/SZ_jll.jl/releases/download/SZ-v2.1.12+0/SZ.v2.1.12.armv6l-linux-musleabihf.tar.gz"
+[[SZ]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "5032da919f73845e9150df5245569289a8804c72"
+libc = "glibc"
+os = "linux"
+
+    [[SZ.download]]
+    sha256 = "f06e021d402ca3b869db077fdf6ebbdf9cc316920e46fb3634c3ee49c7b2c528"
+    url = "https://github.com/JuliaBinaryWrappers/SZ_jll.jl/releases/download/SZ-v2.1.12+0/SZ.v2.1.12.armv7l-linux-gnueabihf.tar.gz"
+[[SZ]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "b976fa36dd0e2dd65847cdaa66a054fec407b130"
+libc = "musl"
+os = "linux"
+
+    [[SZ.download]]
+    sha256 = "179b27313a66aba08fd0eae180ebbe439a6140283bba86da732f3cf1516df604"
+    url = "https://github.com/JuliaBinaryWrappers/SZ_jll.jl/releases/download/SZ-v2.1.12+0/SZ.v2.1.12.armv7l-linux-musleabihf.tar.gz"
+[[SZ]]
+arch = "i686"
+git-tree-sha1 = "2a6737b2d098e58d0250d898420e42ca6820bf84"
+libc = "glibc"
+os = "linux"
+
+    [[SZ.download]]
+    sha256 = "1e1497968ee290354652d8757e26f59beb0a9a9b484eb94d7f2fd4ea6cd71be3"
+    url = "https://github.com/JuliaBinaryWrappers/SZ_jll.jl/releases/download/SZ-v2.1.12+0/SZ.v2.1.12.i686-linux-gnu.tar.gz"
+[[SZ]]
+arch = "i686"
+git-tree-sha1 = "bfebca54282a6519d9c938433ef430ab9fe9fb58"
+libc = "musl"
+os = "linux"
+
+    [[SZ.download]]
+    sha256 = "32f05cfb23cb58566d2f11a63fdcf172a23b0db144d87a6d9f605c1002c6e32c"
+    url = "https://github.com/JuliaBinaryWrappers/SZ_jll.jl/releases/download/SZ-v2.1.12+0/SZ.v2.1.12.i686-linux-musl.tar.gz"
+[[SZ]]
+arch = "i686"
+git-tree-sha1 = "666000013017a27c9de9c9cd711cb8b06a444993"
+os = "windows"
+
+    [[SZ.download]]
+    sha256 = "b8a388b55f731f96d91448eebc5dc08783d118b2bc8c0b03c92dd607daf1b8a2"
+    url = "https://github.com/JuliaBinaryWrappers/SZ_jll.jl/releases/download/SZ-v2.1.12+0/SZ.v2.1.12.i686-w64-mingw32.tar.gz"
+[[SZ]]
+arch = "powerpc64le"
+git-tree-sha1 = "19b54e36743590af83f3dff0e7700ff05fe51088"
+libc = "glibc"
+os = "linux"
+
+    [[SZ.download]]
+    sha256 = "4eccf8851a7f42aea5441bb283171e7c7ac372504c12a3af75e63707c840346a"
+    url = "https://github.com/JuliaBinaryWrappers/SZ_jll.jl/releases/download/SZ-v2.1.12+0/SZ.v2.1.12.powerpc64le-linux-gnu.tar.gz"
+[[SZ]]
+arch = "x86_64"
+git-tree-sha1 = "16e04de6572b6fcecf85dbeabeb207d29c7aa8db"
+os = "macos"
+
+    [[SZ.download]]
+    sha256 = "070e577c4e5e61fcc1f2866a41593ac2eb4d0e2edca40a3600722fa68a0c0bad"
+    url = "https://github.com/JuliaBinaryWrappers/SZ_jll.jl/releases/download/SZ-v2.1.12+0/SZ.v2.1.12.x86_64-apple-darwin.tar.gz"
+[[SZ]]
+arch = "x86_64"
+git-tree-sha1 = "0cae7fd02e305e642ef637661d606e0f786dca46"
+libc = "glibc"
+os = "linux"
+
+    [[SZ.download]]
+    sha256 = "46ba4db023ec2a32bea2be1a6419761263b20af7d6b85f28b662ca4b3a651c3b"
+    url = "https://github.com/JuliaBinaryWrappers/SZ_jll.jl/releases/download/SZ-v2.1.12+0/SZ.v2.1.12.x86_64-linux-gnu.tar.gz"
+[[SZ]]
+arch = "x86_64"
+git-tree-sha1 = "0d2695c344c15672b1bf58335e886adc243b2c3f"
+libc = "musl"
+os = "linux"
+
+    [[SZ.download]]
+    sha256 = "ead273bd486e0edd05ba0b6d1f981fb49f50a50d79614053a15378d0e0821b82"
+    url = "https://github.com/JuliaBinaryWrappers/SZ_jll.jl/releases/download/SZ-v2.1.12+0/SZ.v2.1.12.x86_64-linux-musl.tar.gz"
+[[SZ]]
+arch = "x86_64"
+git-tree-sha1 = "b78619df4d38c079d19d9b7a18d1dc9808a9e9eb"
+os = "freebsd"
+
+    [[SZ.download]]
+    sha256 = "92a458ded84095220a959cd103270e9ccd557e7bac9dcc1f89ce9ff1fd86a853"
+    url = "https://github.com/JuliaBinaryWrappers/SZ_jll.jl/releases/download/SZ-v2.1.12+0/SZ.v2.1.12.x86_64-unknown-freebsd.tar.gz"
+[[SZ]]
+arch = "x86_64"
+git-tree-sha1 = "4eb943080b181904601754ca13680a01a9033633"
+os = "windows"
+
+    [[SZ.download]]
+    sha256 = "c596ae0ee36915151dbae980ea854d62232cf26e64d5569c2be245ba0a32cef4"
+    url = "https://github.com/JuliaBinaryWrappers/SZ_jll.jl/releases/download/SZ-v2.1.12+0/SZ.v2.1.12.x86_64-w64-mingw32.tar.gz"
