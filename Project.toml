@@ -1,6 +1,6 @@
 name = "SZ_jll"
 uuid = "409b0d58-1332-5589-be3b-4d778b0df058"
-version = "2.1.12+0"
+version = "2.1.12+1"
 
 [deps]
 Zstd_jll = "3161d3a3-bdf6-5164-811a-617609db77b4"
